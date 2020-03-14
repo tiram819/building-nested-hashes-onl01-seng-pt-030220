@@ -33,7 +33,6 @@ def third_challenge
    }
   
     
-  }
 
 
   
