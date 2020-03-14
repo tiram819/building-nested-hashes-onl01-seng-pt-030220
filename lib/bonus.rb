@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  epic_tragedy[:montague][:patriarch][:name]
+  epic_tragedy[:montague][:patriarch][:name] => "dead"
 
   
 
